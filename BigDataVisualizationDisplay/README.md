@@ -26,7 +26,7 @@ python app.py;
 
 ## 示例
 
-![Image text](https://github.com/Shajiu/Big-Data-Visualization-Display/blob/main/static/images/Deom.jpg)
+![甘肃省甘南州大数据云计算微服务平台中心](https://github.com/Shajiu/ApplicationTool/blob/main/BigDataVisualizationDisplay/app.png)
 
 ## 使用
 
